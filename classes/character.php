@@ -3,7 +3,7 @@
 
  abstract class Character
 {
-    protected $healthPoints = 100;  //mettre dans magician//
+    protected $healthPoints = 100; 
     public $damage = 15;
     public $name;
 
