@@ -3,7 +3,7 @@
 class Magician extends Character
 {
     public $shield = false;
-    private $magicPoints = 20;//remettre dans character//
+    private $magicPoints = 20;
 
     public function __construct($name) {
         parent::__construct($name);
